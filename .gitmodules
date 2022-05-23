@@ -1,0 +1,3 @@
+[submodule "payment_mercadopago"]
+	path = payment_mercadopago
+	url = https://github.com/ctmil/payment_mercadopago.git
